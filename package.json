@@ -1,0 +1,25 @@
+{
+  "name": "hello_world_smart_contract",
+  "version": "1.0.0",
+  "description": "A simple solidity smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Web3",
+    "Ethereum",
+    "Solidity",
+    "Hardhat"
+  ],
+  "author": "Kingsley Ugwudinso",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "ethers": "^5.6.0",
+    "hardhat": "^2.9.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
