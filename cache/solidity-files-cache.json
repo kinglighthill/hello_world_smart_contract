@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/home/kingholyhill/work/personal/web3/block_games/hello_world_smart_contract/contracts/HelloWorld.sol": {
-      "lastModificationDate": 1646925654324,
-      "contentHash": "5775296819ff97bb99a232514a571074",
+      "lastModificationDate": 1646929859438,
+      "contentHash": "101cf956487524993b192dc9244bbc39",
       "sourceName": "contracts/HelloWorld.sol",
       "solcConfig": {
         "version": "0.7.3",

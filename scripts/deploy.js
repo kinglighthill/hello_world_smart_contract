@@ -1,7 +1,7 @@
 async function main() {
     const helloWorldContract = await ethers.getContractFactory("HelloWorld")
 
-    const helloWorld = await helloWorldContract.deploy("Hello World!")
+    const helloWorld = await helloWorldContract.deploy("KingHolyhill")
     console.log("Contract deployed to address: ", helloWorld.address)
 }
 

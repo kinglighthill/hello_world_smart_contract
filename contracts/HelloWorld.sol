@@ -15,6 +15,6 @@ contract HelloWorld {
     }
 
     function sayHello () public view returns (string memory) {
-        return string(abi.encode(greeting, name));
+        return string(abi.encodePacked(greeting, name));
     }
 }
